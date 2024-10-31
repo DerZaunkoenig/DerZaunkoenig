@@ -2,17 +2,17 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Joe L. Poppe
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13th January 1998
     - name: Languages
-      value: English, German
+      value: English, German, French, Japanese
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+      institution: University of Cologne, Cologne, Germany
       year: 1905
       description:
         - Description 1.
@@ -21,9 +21,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: M.Sc. Global Business
+      institution: Georg-August-Universität Göttingen, Göttingen, Germany
+      year: 2023
+      description:
+        - Description 1.
+        - Description 2.
+    - title: B.Sc. Business Administration
+      institution: University of Cologne, Cologne, Germany
+      year: 2021
       description:
         - Description 1.
         - Description 2.
@@ -82,11 +88,11 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Circular Economy
       items:
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: Business Model Innovation
       items:
         - Description 1.
         - Description 2.
