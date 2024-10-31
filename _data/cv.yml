@@ -13,7 +13,7 @@
   contents:
     - title: PhD
       institution: University of Cologne, Cologne, Germany
-      year: 1905
+      year: 2024 - today
       description:
         - Description 1.
         - Description 2.
@@ -23,13 +23,19 @@
             - Sub-description 2.
     - title: M.Sc. Global Business
       institution: Georg-August-Universität Göttingen, Göttingen, Germany
-      year: 2023
+      year: 2021 - 2023
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Studies abroad
+      institution: Kobe University, Kobe, Japan
+      year: 2022 - 2023
       description:
         - Description 1.
         - Description 2.
     - title: B.Sc. Business Administration
       institution: University of Cologne, Cologne, Germany
-      year: 2021
+      year: 2016 - 2021
       description:
         - Description 1.
         - Description 2.
@@ -37,9 +43,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Seminar for Supply Chain - Strategy & Innovation, University of Cologne
+      year: 2024 - today
       description:
         - Description 1.
         - Description 2.
@@ -47,25 +53,12 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Student assistant
+      institution: Marketing - Innovationsmanagement, University of Goettingen
+      year: 2023
       description:
         - Description 1.
         - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
